@@ -1,0 +1,22 @@
+{
+  "name": "Divyansh",
+  "version": "1.1.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "moment": "^2.22.1",
+    "mongoose": "^5.0.15",
+    "oauth2orize": "^1.11.0",
+    "passport": "^0.4.0",
+    "passport-http-bearer": "^1.0.1",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
